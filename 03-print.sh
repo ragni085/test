@@ -10,3 +10,7 @@ echo -e "\e[33mHello World With Yellow FG Color"
 
 echo -e "\e[32m Hello world"
 echo -e "\e[42m Hello World"
+
+
+echo -e "\e[33;41m Hello World"
+
